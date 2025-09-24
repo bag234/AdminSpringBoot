@@ -1,0 +1,4 @@
+# - is comment in format file
+# Format input user: [user_name | login]:[{Paasword encode}password]:[Authorities | Role]
+# Example:
+# test:{noop}test:Admin,View,...
